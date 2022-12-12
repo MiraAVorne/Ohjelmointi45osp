@@ -18,7 +18,10 @@ Vastaa tähän...
 - Daily Scrum / Päivittäispalaveri
 - Sprint review / Katselmointi
 - Retrospective / Jälkipalaveri
-- Deployment / Käyttöönotto, asennus, tuotantoon siirto
+- Deployment / Käyttöönotto
+
+## Mitä DevOps tarkoittaa? Mitä CI/CD tarkoittaa? Voit ottaa asiasta selvää esimerkiksi seuraavan artikkelisarjan avulla
+https://medium.com/@gwright_60924/software-delivery-for-beginners-series-intro-751b90fbe078
 
 ## JavaScript
 **1. päivän koodiharjoitus kommentoituna:**
