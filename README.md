@@ -1,7 +1,7 @@
 # Ohjelmointi45osp
 
 ## Projektinhallinta
-![Scrum](scrum.jpg)
+![My Image](my-image.jpg)
 
 ### Kehitystiimi
 
