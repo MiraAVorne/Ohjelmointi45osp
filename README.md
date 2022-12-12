@@ -1,5 +1,11 @@
 # Ohjelmointi45osp
 
+## Projektinhallinta
+
+### Kehitystiimi
+
+### Suunnittelu
+
 ## JavaScript
 **1. päivän koodiharjoitus kommentoituna:**
 ```
@@ -14,6 +20,10 @@ Vastaa tähän...
 Vastaa tähän...
 ```
 **2. päivän koodiharjoitus kommentoituna:**
+```
+Vastaa tähän...
+```
+Mitä tarkoittaa ohjelmistokehittäjän etiikka? Miksi ohjelmistokehittäjän tulee ottaa eettiset näkökulmat huomioon?
 ```
 Vastaa tähän...
 ```
