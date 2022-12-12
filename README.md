@@ -43,7 +43,18 @@ Vastaa tähän...
 **Mitä tarkoittaa ohjelmistokehittäjän etiikka? Miksi ohjelmistokehittäjän tulee ottaa eettiset näkökulmat huomioon? Voit ottaa asiasta selvää esimerkiksi seuraavien artikkelien avulla**  
 https://www.acm.org/code-of-ethics  
 https://tivia.fi/toimiala/etiikan-ohjeet
-
+```
+Vastaa tähän...
+```
+**JSON koodiharjoitus kommentoituna:**
+```
+Vastaa tähän...
+```
+**XML koodiharjoitus kommentoituna:**
+```
+Vastaa tähän...
+```
+**CSV koodiharjoitus kommentoituna:**
 ```
 Vastaa tähän...
 ```
