@@ -1,6 +1,7 @@
 # Ohjelmointi45osp
 
 ## Projektinhallinta
+![Scrum ;)](scrum.jpg)
 
 ### Kehitystiimi
 
