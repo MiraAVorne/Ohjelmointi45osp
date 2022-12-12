@@ -5,7 +5,11 @@
 ### Yhden kommenttirivin kirjoittaminen JavaScriptillä.
 
 ```
-// Tämä on yhden rivin kommentti
+Kirjoita vastaus tähän
 ```
 
 ### Monen kommenttirivin kirjoittaminen JavaScriptillä
+
+```
+Kirjoita vastaus tähän
+```
