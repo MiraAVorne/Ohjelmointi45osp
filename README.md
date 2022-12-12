@@ -1,6 +1,6 @@
 # Ohjelmointi45osp
 
-https://github.com/MiraAVorne/myPages
+Miran muistiinpanot: https://github.com/MiraAVorne/myPages
 
 ## Projektinhallinta
 ![Scrum](scrum.jpg)
